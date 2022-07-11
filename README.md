@@ -1,0 +1,2 @@
+# MoveExtractFailImage
+镭射标签移动提取失败的图片的windows应用程序
